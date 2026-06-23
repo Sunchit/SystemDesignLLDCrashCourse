@@ -447,6 +447,7 @@ If this series helps you ace an interview, ship a better design, or just survive
 | 📺 YouTube | [@CodeWithSunchitDudeja](https://www.youtube.com/@CodeWithSunchitDudeja) | Video walkthroughs of every post in this series |
 | 📸 Instagram | [@sunchitdudeja](https://www.instagram.com/sunchitdudeja/) | Daily system design snippets and behind-the-scenes |
 | 🐙 GitHub | [@Sunchit](https://github.com/Sunchit) | All the source code, diagrams, and companion series |
+| 🎯 Topmate | [sunchit_dudeja](https://topmate.io/sunchit_dudeja/) | 1:1 mentorship, mock interviews, and career guidance |
 
 ---
 
