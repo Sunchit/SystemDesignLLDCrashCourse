@@ -4,6 +4,37 @@
 
 ---
 
+## Table of Contents
+
+- [What This Course Is](#what-this-course-is)
+- [Value Proposition](#value-proposition)
+- [What You Will Learn](#what-you-will-learn)
+- [Who This Is For](#who-this-is-for)
+- [Prerequisites](#prerequisites)
+- [Course Modules](#complete-table-of-contents)
+  - [00 — Foundation: OOP & Clean Code](#module-00--foundation-oop--clean-code-fundamentals)
+  - [01 — SOLID Principles](#module-01--solid-principles)
+  - [02 — Design Principles](#module-02--design-principles)
+  - [03 — UML & Design Modeling](#module-03--uml--design-modeling)
+  - [04 — Design Patterns](#module-04--design-patterns)
+  - [05 — Senior Engineer Design Thinking](#module-05--senior-engineer-design-thinking)
+  - [06 — Real-World Case Studies](#module-06--real-world-case-studies)
+  - [07 — Machine Coding Round Preparation](#module-07--machine-coding-round-preparation)
+  - [08 — Testing & Quality Engineering](#module-08--testing--quality-engineering)
+  - [09 — Capstone Projects](#module-09--capstone-projects)
+  - [10 — Interview Preparation](#module-10--interview-preparation)
+  - [11 — Artifacts & Reference Materials](#module-11--artifacts--reference-materials)
+- [How to Use This Course](#how-to-use-this-course)
+- [Quick Start: 4-Week Interview Crash Plan](#quick-start-4-week-interview-crash-plan)
+- [Deep Dive: 12-Week Full Learning Plan](#deep-dive-12-week-full-learning-plan)
+- [Milestone & Badge System](#milestone--badge-system)
+- [Certification Criteria](#certification-criteria)
+- [Repository Structure](#repository-structure)
+- [Connect with Me](#connect-with-me)
+- [About the Author](#about-the-author)
+
+---
+
 ## What This Course Is
 
 This is a structured, interview-grade curriculum for software engineers preparing for Senior Engineer roles at product companies (FAANG, unicorns, and mid-stage startups). It bridges the gap between "knowing OOP" and "designing production systems confidently" — the gap that causes most mid-level engineers to stumble at Senior interviews.
