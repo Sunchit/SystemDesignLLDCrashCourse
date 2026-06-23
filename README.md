@@ -434,3 +434,30 @@ Code examples throughout this course are written in **Java**. The concepts are l
 ---
 
 *Start with [`ROADMAP.md`](./ROADMAP.md) to pick your learning path, or dive directly into [`00-foundation/`](./00-foundation/) if you're ready to begin.*
+
+---
+
+## Connect with Me
+
+If this series helps you ace an interview, ship a better design, or just survive a 3 AM on-call — I'd love to hear about it. Follow along, share your progress, and tag me when you land that offer.
+
+| Platform | Handle | Why follow |
+|----------|--------|------------|
+| 💼 LinkedIn | [Sunchit Dudeja](https://www.linkedin.com/in/sunchitdudeja/) | Long-form posts, career insights, and series announcements |
+| 📺 YouTube | [@CodeWithSunchitDudeja](https://www.youtube.com/@CodeWithSunchitDudeja) | Video walkthroughs of every post in this series |
+| 📸 Instagram | [@sunchitdudeja](https://www.instagram.com/sunchitdudeja/) | Daily system design snippets and behind-the-scenes |
+| 🐙 GitHub | [@Sunchit](https://github.com/Sunchit) | All the source code, diagrams, and companion series |
+
+---
+
+## About the Author
+
+**Sunchit Dudeja** — Engineering Leader · System Design Educator
+
+Building this series to give every developer the foundation that took most architects years of painful incidents to develop.
+
+Also writing the companion series **Learn to Think Like an Architect** — mental models and real-world architectural war stories.
+
+Happy Learning! 🎉
+
+> *"A developer makes the code work. An architect makes the system last."*
